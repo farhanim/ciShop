@@ -139,7 +139,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 order-2 order-md-1">
                             <div class="copyright-text">
-                                <p>copyright <a href="#">HasTech</a>. All Rights Reserved</p>
+                                <p>copyright <a href="#">HansTech</a>. All Rights Reserved</p>
                             </div>
                         </div>
                         <div class="col-md-6 ml-auto order-1 order-md-2">

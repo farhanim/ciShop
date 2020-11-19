@@ -109,7 +109,7 @@
                                             <?php 
                                             if (isset($cp)) {
                                                 if ($ct == 'percent') {
-                                                    echo 'Rp.' . ($ot*$cp)/100;
+                                                    echo 'Rs.' . ($ot*$cp)/100;
                                                 } elseif ($ct == 'amount') {
                                                     $ot -= $cp; echo 'Rp. ' . $ot;
                                                 }

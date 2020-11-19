@@ -34,7 +34,7 @@
                 <div class="brand-logo">
                     <a href="index-2.html">
                         <img src="<?php echo base_url(); ?>assets/admin/images/logo-icon.png" class="logo-icon" alt="logo icon">
-                        <h5 class="logo-text"> E-Shop</h5>
+                        <h5 class="logo-text"> ciShop</h5>
                     </a>
                 </div>
                 <div class="user-details">
