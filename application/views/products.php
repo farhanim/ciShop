@@ -94,8 +94,8 @@
                                                 <h3><a href="<?php echo base_url('products/').$prod->id ?>"><?php echo $prod->pn ?></a></h3>
                                             </div>
                                             <div class="price-box">
-                                                <span class="regular-price">Rs. <?php echo $prod->psp ?></span>
-                                                <span class="old-price"><del>Rs. <?php echo $prod->prp ?></del></span>
+                                                <span class="regular-price">Rp. <?php echo $prod->psp ?></span>
+                                                <span class="old-price"><del>Rp. <?php echo $prod->prp ?></del></span>
                                             </div>
                                         </div>
                                     </div>
@@ -110,8 +110,8 @@
                                         <div class="product-list-content">
                                             <h3><a href="<?php echo base_url('products/').$prod->id ?>"><?php echo $prod->pn ?></a></h3>
                                             <div class="pricebox">
-                                                <span class="regular-price">Rs. <?php echo $prod->psp ?></span>
-                                                <span class="old-price"><del>Rs. <?php echo $prod->prp ?></del></span>
+                                                <span class="regular-price">Rp. <?php echo $prod->psp ?></span>
+                                                <span class="old-price"><del>Rp. <?php echo $prod->prp ?></del></span>
                                             </div>
                                             <p><?php echo $prod->psd ?></p>
                                         </div>

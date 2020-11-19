@@ -112,12 +112,12 @@
                                 <ul class="address-box">
                                     <li>
                                         <span>ADDRESS:</span>
-                                        <p>Melani - Responsive Prestashop Theme<br>
-                                        169-C, Technohub, Dubai Silicon</p>
+                                        <p>Hanstech<br>
+                                        Bogor, Indonesia</p>
                                     </li>
                                     <li>
                                         <span>call us now:</span>
-                                        <p>+880123456789</p>
+                                        <p>+6280123456789</p>
                                     </li>
                                     <li>
                                         <span>email:</span>

@@ -47,7 +47,7 @@
                             <tr>
                                 <td class="pro-thumbnail"><a href="#"><img class="img-fluid" src="<?php echo base_url().$orders->pimg ?>" alt="Product"/></a></td>
                                 <td class="pro-title"><a href="#"><?php echo $orders->pn ?></a></td>
-                                <td class="pro-price"><span>Rs. <?php echo $orders->psp ?></span></td>
+                                <td class="pro-price"><span>Rp. <?php echo $orders->psp ?></span></td>
                                 <td class="pro-quantity">
                                     <span><?php echo $orders->oq ?></span>
                                 </td>
@@ -89,14 +89,14 @@
                                 <table class="table">
                                     <tr>
                                         <td>Sub Total</td>
-                                        <td>Rs. <?php echo $ot ?></td>
+                                        <td>Rp. <?php echo $ot ?></td>
                                     </tr>
                                     <tr>
                                         <td>Shipping</td>
                                         <td>
                                             <?php if ($ot <= '500') {
                                                 $sc = 100;
-                                                echo 'Rs. 100';
+                                                echo 'Rp. 100';
                                             } else {
                                                 $sc = 0;
                                                 echo 'Free Shipping';
@@ -109,12 +109,12 @@
                                             <?php 
                                             if (isset($cp)) {
                                                 if ($ct == 'percent') {
-                                                    echo 'Rs.' . ($ot*$cp)/100;
+                                                    echo 'Rp.' . ($ot*$cp)/100;
                                                 } elseif ($ct == 'amount') {
-                                                    $ot -= $cp; echo 'Rs. ' . $ot;
+                                                    $ot -= $cp; echo 'Rp. ' . $ot;
                                                 }
                                             } else {
-                                                $ot += $sc; echo 'Rs.' . $ot;
+                                                $ot += $sc; echo 'Rp.' . $ot;
                                             } 
                                             ?>
                                         </td>

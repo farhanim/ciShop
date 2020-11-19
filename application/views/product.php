@@ -36,8 +36,8 @@
                                 <div class="product-details-des pt-md-98 pt-sm-58">
                                     <h3><?php echo $pn ?></h3>
                                     <div class="pricebox">
-                                        <span class="regular-price">Rs. <strong><?php echo $psp ?></strong></span>
-                                        <span class="old-price"><del>Rs. <?php echo $prp ?></del></span>
+                                        <span class="regular-price">Rp. <strong><?php echo $psp ?></strong></span>
+                                        <span class="old-price"><del>Rp. <?php echo $prp ?></del></span>
                                     </div>
                                     <p><?php echo $psd ?></p>
                                 

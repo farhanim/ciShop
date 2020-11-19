@@ -8,7 +8,7 @@
     <meta name="description" content="meta description">
 
     <!-- Site title -->
-    <title>Melani-Multipurpose eCommerce Bootstrap 4 Template</title>
+    <title>E-Shop - Simple E-Commerce</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/img/favicon.ico" type="image/x-icon" />
     <!-- Bootstrap CSS -->
